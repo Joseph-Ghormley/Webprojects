@@ -6,7 +6,7 @@ A dynamic event website built as part of my **WEB101 course project**, themed ar
 ## 🌐 Live Demo
 
 [[Click here to view the site](https://vscodeedu.com/wmPzmT1F3ji96xN9WBjq)  
-*(Update this link once you publish with GitHub Pages)*
+
 
 ---
 
